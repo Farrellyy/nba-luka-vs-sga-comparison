@@ -1,5 +1,9 @@
 # Luka Dončić vs Shai Gilgeous-Alexander: A Statistical Comparison
 
+**🔗 [View the live dashboard](https://farrellyy.github.io/nba-luka-vs-sga-comparison/)** — the polished summary, charts, and verdict
+
+**📓 [View the full notebook](./LukaVSShai.ipynb)** — all code, data cleaning, and analysis (renders directly in GitHub)
+
 A data analysis project comparing the career trajectories and current-season performance of two of the NBA's elite offensive players — exploring the contrast between Luka Dončić's high-volume playmaking and Shai Gilgeous-Alexander's elite scoring efficiency.
 
 ## Overview
@@ -25,10 +29,6 @@ This project pulls career statistics for both players directly from Basketball R
 - SGA maintains a notably higher True Shooting %, reflecting a more efficient scoring profile
 - Their PER trajectories track closely, suggesting their different styles — volume vs. efficiency — net out to comparable overall per-minute value
 - Despite SGA's back-to-back MVPs and a Finals MVP, the statistical case suggests team context (the Thunder's roster improvements pre-championship) plays a significant role in that award gap
-
-## View the Full Analysis
-
-The full notebook with all charts, code, and write-up is in [`LukaVSShai.ipynb`](./LukaVSShai.ipynb) — GitHub renders it directly in the browser.
 
 ---
 *This is a first portfolio project built as part of ongoing data science coursework, focused on practicing end-to-end analysis: data collection, cleaning, visualization, and written interpretation.*
